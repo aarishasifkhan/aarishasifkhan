@@ -6,17 +6,16 @@
 ## 🧠 About Me
 
 👨‍💻 I'm a dedicated developer from **Pakistan**, deeply passionate about **Full-Stack Web Development**, **Machine Learning**, and **Software Engineering**.  
-🎓 Currently pursuing **Computer Science** at **Bahria College & University, Islamabad**.  
+🎓 Currently pursuing **Computer Science** at **Bahria College Islamabad**.  
 💡 I love creating elegant, efficient, and scalable software solutions.
 
 ---
 
 ## 🎯 Currently...
 
-- 🎓 Studying **Computer Science** at **Bahria University**
+- 🎓 Studying **Computer Science** at **BCI**
 - 📜 Completed an internship as a **Full-Stack Developer at [Backendz](https://backendz.co)**  
 - 🏅 Received official certificates in:
-  - **MongoDB Basics** by MongoDB University  
   - **Node.js & Express Essentials**  
   - **React.js for Beginners**  
   - **Python for Data Science**  
@@ -71,7 +70,7 @@ Open to:
 ---
 
 ## ✨ Fun Fact:
-I started coding when I turned 10, and now I turn coffee ☕ into full-stack apps 💻 like magic.
+I started coding when I turned 10, and now I sip coffee ☕ and make full-stack apps 💻 like magic.
 
 ---
 
